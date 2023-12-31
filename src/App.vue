@@ -101,44 +101,52 @@ export default {
       ],
       "pilots": [
         {
-          "callsign": "Jinzo",
-          "alias": "Shayan Arsenal",
-          "code": "462370be-bd0f-41c2-b667-cc75f3a59a96///NDL-C-DEEP-STATION//377308ad-ba23-410b-ae37-68a1fb5f8db4",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Type - Worst Beat"
+          "callsign": "Boots",
+          "alias": "Magalie Namauu",
+          "code": "qlzp-o36zs-jxks13cq1jvkkupbwc-43xmp // HARRISON ARMORY FIELD TEST PILOT",
+          "corpro": "HORUS",
+          "frame": "Gorgon",
+          "mech": "Hush, Puppy"
         },
         {
-          "callsign": "Kal",
-          "alias": "Vier Flau",
-          "code": "7cd700cc-c990-48ed-892f-e5468de724c4///NDL-C-DEEP-STATION//a98c3e28-ad4a-4f89-bcd9-501464e960da",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Necrophile"
+          "callsign": "Henko",
+          "alias": "Ziau Jua",
+          "code": "aztf-1phqs-4t3zm333yjp44eh635-jf6az // UNION NAVY AUXILIARY CORPORAL",
+          "corpro": "Harrison Armory",
+          "frame": "Sherman",
+          "mech": "Cost of Doing Business"
         },
         {
-          "callsign": "Starboard",
-          "alias": "Maria",
-          "code": "4be26ce9-923b-4069-b6c9-76437d4be455///NDL-C-DEEP-STATION//056940c6-8d55-4190-8e85-57caa043cb1a",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Scarlet Judicator"
+          "callsign": "Sigmundr",
+          "alias": "Skorri Eydisson",
+          "code": "3mbf-sfn3k-76rprib1sw6jbf5lr-dnb5yw // INDEPENDENT MERCENARY",
+          "corpro": "Harrison Armory",
+          "frame": "Tokugawa",
+          "mech": "Baldr"
         },
         {
-          "callsign": "Badlands",
-          "alias": "Marlene Gatsby",
-          "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Mayfly"
+          "callsign": "Verge",
+          "alias": "Bishop Huxley",
+          "code": "rvdt-nju64-paz1a9btqipesptwgw-7h6vm // INDEPENDENT MERCENARY",
+          "corpro": "Smith-Shimano Corpro",
+          "frame": "Metalmark",
+          "mech": "Danse Macabre"
         },
         {
-          "callsign": "Compadre",
-          "alias": 'Clint "CC" Cruz',
-          "code": "d1fdf62e-d81e-4e10-97c8-df3bc4860117///NDL-C-DEEP-STATION//5a4254aa-9fa2-42ca-a077-8f5bfd1e1ad3",
+          "callsign": "Skeptic",
+          "alias": "Toska Adachi",
+          "code": "1sqb-9whc9-1b2ibxtqeco97fbhl7-e5ocm // UNION NAVY AUXILIARY SERGEANT",
+          "corpro": "Horus",
+          "frame": "Pegasus",
+          "mech": "Chimera"
+        },
+         {
+          "callsign": "Pepper",
+          "alias": "Kinera Warheit",
+          "code": "ldgg-6epo4-n3lhl6vo0ex26qec5v-3dxaa // UNION NAVY AUXILIARY SERGEANT",
           "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Rio Bravo"
+          "frame": "Chomolungma",
+          "mech": "Kira"
         },
       ],
       "header": {
@@ -147,10 +155,10 @@ export default {
         "system": "Ardennes-3",
         "gate": "Atlas-Quanokrim",
         "ring": "Atlas-Line",
-        "headerTitle": "Mirrorsmoke",
-        "headerSubtitle": "Mercenary Company",
-        "subheaderTitle": "Crisis Response",
-        "subheaderSubtitle": "Delta-Echo-Echo-Zulu",
+        "headerTitle": "Union Naval Department",
+        "headerSubtitle": " ",
+        "subheaderTitle": "Mission Dossier",
+        "subheaderSubtitle": "Hercynia Conflict",
       },
       "options":{
         "eventsMarkdownPerMission": true
