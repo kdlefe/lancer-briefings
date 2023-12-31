@@ -8,37 +8,33 @@
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://lancer.kuenaimaku.com/">
   <meta property="og:title" content="MSMC Mission Briefing">
-  <meta property="og:description" content="UNION NAVAL DEPARTMENT | MISSION BRIEFING">
+  <meta property="og:description" content="MIRRORSMOKE MERCENARY COMPANY | MISSION BRIEFING">
   <meta property="og:image" content="/icons/company-icon.svg">
-  <title>UNION NAVAL DEPARTMENT | MISSION BRIEFING</title>
+  <title>MSMC | MISSION BRIEFING</title>
 </head>
 
 <body style="margin:0px;">
   <div id="app"></div>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r121/three.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/vanta@latest/dist/vanta.globe.min.js"></script>
-<script>
-var setVanta = ()=>{
-if (window.VANTA) window.VANTA.GLOBE({
-  el: ".s-page-1 .s-section-1 .s-section",
-  mouseControls: true,
-  touchControls: true,
-  gyroControls: false,
-  minHeight: 200.00,
-  minWidth: 200.00,
-  scale: 1.00,
-  scaleMobile: 1.00,
-  color: 0x#991e2a,
-  color2: 0x#991e2a,
-  size: 1.10,
-  backgroundColor: 0xffffff
-})
-}
-_strk.push(function() {
-  setVanta()
-  window.edit_page.Event.subscribe( "Page.beforeNewOneFadeIn", setVanta )
-})
-</script>
+  <script type="module" src="/src/main.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r121/three.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vanta@0.5.21/dist/vanta.waves.min.js"></script>
+  <script>
+    VANTA.WAVES({
+      el: "body",
+      mouseControls: true,
+      touchControls: true,
+      gyroControls: false,
+      minHeight: 200.00,
+      minWidth: 200.00,
+      scale: 1.00,
+      scaleMobile: 1.00,
+      color: 0x182325,
+      shininess: 10.00,
+      waveHeight: 40.00,
+      waveSpeed: 0.10,
+      zoom: 0.65
+    })
+  </script>
 </body>
 
 </html>
