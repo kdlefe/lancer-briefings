@@ -1,0 +1,11 @@
+"Seeing the world through someone else's eyes; that ain' ever gunna be me." 
+
+Henko joined up with a ring of raiders at a young age, establishing himself as a ruthless pirate by adulthood. His introduction into mech piloting came from stolen Everest units being shipped from GMS printers to various parts of rim space. These were easy to use mechs that allowed himself and compatriots to tackle more challenging jobs on the fringes of society. Working with these raiders, "Scarlet Cross," landed him in a mech called "Weight of the World." The cockpit had trinkets and family photos for a previous pilot that carried the codename "Atlas." It was assumed that this previous pilot was killed in the line of duty. Everywhere Henko went, people recognized Weight of the World. This would become an issue during a raid on a colony in rim space. Weight of the World showed up in a system scan and alerted auxiliary forces. 
+
+Ziau "Henko" Jua was captured and extradited to Union authorities. He, and the stolen mech, were brought to Cradle. It was here that he was given the option to face punishment for his crimes or conscript into service of The Union as a mech pilot. Further, he was told that all of his raider allies had scrambled the moment that rim security forces arrived. It was highly suspect that his stolen mech was not wiped of previous user data. Henko could only assume that he was set up and sold out, alongside others in his warband. This led him to choose working for The Union. 
+
+He has spent nearly thirty years in deep space. Now, his service to the Union military brings him to their beckon. Wanderlust has been traded for a hard carapace uniform and assault rifle. 
+
+## Pilot Appearance
+
+* Henko is 47 years of age, though relative time from deep space travel makes his body appear to be no older than 23. He has many facial piercings, stretched ear lobes and countless tattoos. He is of short stature and lean build. He has black hair, yellow-tan eyes and a smug expression that never seems to leave his lips. There is a red stripe across the bridge of his nose that was marked to show his affiliation with a band of raiders called "Scarlet Cross." Henko covers it with a bandage whenever possible, especially while on duty.
