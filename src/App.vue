@@ -113,7 +113,7 @@ export default {
         {
           "callsign": "Boots",
           "alias": "Magalie Namauu",
-          "code": "qlzp-o36zs-jxks13cq1jvkkupbwc-43xmp // HARRISON ARMORY FIELD TEST PILOT",
+          "code": "qlzp-o36zs-jxks13cq1jvkkupbwc-43xmp --- // HARRISON ARMORY FIELD TEST PILOT",
           "corpro": "HORUS",
           "frame": "Gorgon",
           "mech": "Hush, Puppy"
