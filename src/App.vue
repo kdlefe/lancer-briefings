@@ -113,7 +113,7 @@ export default {
         {
           "callsign": "Boots",
           "alias": "Magalie Namauu",
-          "code": "qlzp-o36zs-jxks13cq1jvkkupbwc-43xmp //    HARRISON ARMORY FIELD TEST PILOT",
+          "code": "qlzp-o36zs-jxks13cq1jvkkupbwc-43xmp // HARRISON ARMORY FIELD TEST PILOT",
           "corpro": "HORUS",
           "frame": "Gorgon",
           "mech": "Hush, Puppy"
@@ -121,7 +121,7 @@ export default {
         {
           "callsign": "Henko",
           "alias": "Ziau Jua",
-          "code": "aztf-1phqs-4t3zm333yjp44eh635-jf6az //    UNION NAVY AUXILIARY CORPORAL",
+          "code": "aztf-1phqs-4t3zm333yjp44eh635-jf6az --- // UNION NAVY AUXILIARY CORPORAL",
           "corpro": "Harrison Armory",
           "frame": "Sherman",
           "mech": "Cost of Doing Business"
@@ -129,7 +129,7 @@ export default {
         {
           "callsign": "Sigmundr",
           "alias": "Skorri Eydisson",
-          "code": "3mbf-sfn3k-76rprib1sw6jbf5lr-dnb5yw //    INDEPENDENT MERCENARY",
+          "code": "3mbf-sfn3k-76rprib1sw6jbf5lr-dnb5yw --- // INDEPENDENT MERCENARY",
           "corpro": "Harrison Armory",
           "frame": "Tokugawa",
           "mech": "Baldr"
@@ -137,7 +137,7 @@ export default {
         {
           "callsign": "Verge",
           "alias": "Bishop Huxley",
-          "code": "rvdt-nju64-paz1a9btqipesptwgw-7h6vm //    INDEPENDENT MERCENARY",
+          "code": "rvdt-nju64-paz1a9btqipesptwgw-7h6vm --- // INDEPENDENT MERCENARY",
           "corpro": "Smith-Shimano Corpro",
           "frame": "Metalmark",
           "mech": "Danse Macabre"
@@ -145,7 +145,7 @@ export default {
         {
           "callsign": "Skeptic",
           "alias": "Toska Adachi",
-          "code": "1sqb-9whc9-1b2ibxtqeco97fbhl7-e5ocm //    UNION NAVY AUXILIARY SERGEANT",
+          "code": "1sqb-9whc9-1b2ibxtqeco97fbhl7-e5ocm ---// UNION NAVY AUXILIARY SERGEANT",
           "corpro": "Horus",
           "frame": "Pegasus",
           "mech": "Chimera"
@@ -153,7 +153,7 @@ export default {
          {
           "callsign": "Pepper",
           "alias": "Kinera Warheit",
-          "code": "ldgg-6epo4-n3lhl6vo0ex26qec5v-3dxaa //    UNION NAVY AUXILIARY SERGEANT",
+          "code": "ldgg-6epo4-n3lhl6vo0ex26qec5v-3dxaa --- // UNION NAVY AUXILIARY SERGEANT",
           "corpro": "GMS",
           "frame": "Chomolungma",
           "mech": "Kira"
