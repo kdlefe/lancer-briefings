@@ -89,43 +89,17 @@ export default {
 
   data() {
     return {
-      "mission_slug": "003",
+      "mission_slug": "001",
       "current_md": "",
       "events": "",
       "missions": [
              {
           "slug": "001",
-          "name": "Bug-Hunt",
-          "status": "success"
-        },
-             {
-          "slug": "002",
-          "name": "Vigilant Gaze",
-          "status": "success"
-        },
-        {
-          "slug": "003",
-          "name": "Floodgate",
-          "status": "success"
+          "name": "Graveyard Shift",
+          "status": "start"
         },
       ],
       "pilots": [
-        {
-          "callsign": "Boots",
-          "alias": "Magalie Namauu",
-          "code": "qlzp-o36zs-jxks13cq1jvkkupbwc-43xmp --- // //HARRISON ARMORY FIELD TEST PILOT",
-          "corpro": "HORUS",
-          "frame": "Gorgon",
-          "mech": "Hush, Puppy"
-        },
-        {
-          "callsign": "Henko",
-          "alias": "Ziau Jua",
-          "code": "aztf-1phqs-4t3zm333yjp44eh635-jf6az --- // //UNION NAVY AUXILIARY CORPORAL",
-          "corpro": "Harrison Armory",
-          "frame": "Sherman",
-          "mech": "Cost of Doing Business"
-        },
         {
           "callsign": "Sigmundr",
           "alias": "Skorri Eydisson",
@@ -142,22 +116,7 @@ export default {
           "frame": "Metalmark",
           "mech": "Danse Macabre"
         },
-        {
-          "callsign": "Skeptic",
-          "alias": "Toska Adachi",
-          "code": "1sqb-9whc9-1b2ibxtqeco97fbhl7-e5ocm ---// //UNION NAVY AUXILIARY SERGEANT",
-          "corpro": "Horus",
-          "frame": "Pegasus",
-          "mech": "Chimera"
-        },
-         {
-          "callsign": "Pepper",
-          "alias": "Kinera Warheit",
-          "code": "ldgg-6epo4-n3lhl6vo0ex26qec5v-3dxaa --- // //UNION NAVY AUXILIARY SERGEANT",
-          "corpro": "GMS",
-          "frame": "Chomolungma",
-          "mech": "Kira"
-        },
+        
       ],
       "header": {
         "planet": "Hercynia",
