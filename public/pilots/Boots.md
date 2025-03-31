@@ -1,7 +1,0 @@
-Magalie Namauu, the only child of Lucien and Anais Namauu, hails from Silva Haven—a diasporan world under the control of Harrison Armory, where her father, a long-serving and distinguished test pilot, earned the privilege (as Harrison Armory so put it) to own land. After years of faithful service, Lucien chose a quieter life, establishing a modest farm to cultivate in his remaining years. Magalie's early childhood was deeply influenced by her father and the rhythms of farming life. Under Lucien's guidance, she learned the craft of tilling the soil, harvesting crops, and, most importantly, piloting. Countless hours were spent in farming mechs and even more were spent in front of the screen, her father over her shoulder, as they completed pilot sim after pilot sim.
-
-Their peaceful lives came to an abrupt end on a crisp Spring day when an unexpected knock echoed through their door. Harrison Armory sought Lucien's expertise for yet another mech test, but this time, Lucien was unwilling to comply with their demands. Faced with the threat to her family’s farm and the peaceful retirement her father longed for, Magalie decided action needed to be taken. 
-
-## Pilot Appearance
-
-* Magalie is in her early adulthood. She stands 5 feet 8 inches tall with a sinewy build. Her skin is free from scars save for a memorial on her shoulder from a combine accident. Magalie has dark eyes and dark hair, the latter of which is normally in unkempt, puffy locs.
