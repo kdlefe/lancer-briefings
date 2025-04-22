@@ -103,7 +103,7 @@ export default {
         {
           "callsign": "Rohe",
           "alias": "Paiti Arona",
-          "code": "3mbf-sfn3k-76rprib1sw6jbf5lr-dnb5yw --- // //INDEPENDENT MERCENARY",
+          "code": "3mbf-sfn3k-76rprib1sw6jbf5lr-dnb5yw --- //      //INDEPENDENT MERCENARY",
           "corpro": "General Massive Systems",
           "frame": "Everest",
           "mech": "TBD"
@@ -111,12 +111,43 @@ export default {
         {
           "callsign": "Verge",
           "alias": "Bishop Huxley",
-          "code": "rvdt-nju64-paz1a9btqipesptwgw-7h6vm --- //   //INDEPENDENT MERCENARY",
+          "code": "rvdt-nju64-paz1a9btqipesptwgw-7h6vm --- //      //INDEPENDENT MERCENARY",
           "corpro": "General Massive Systems",
           "frame": "Everest",
           "mech": "Radar Rider"
         },
-        
+                {
+          "callsign": "Updog",
+          "alias": "Nephili Rex-Montague",
+          "code": "4zpd-jq8r7-19mxe2tw7c4hul9k-vns9qe --- //      //Karrakin House Montague",
+          "corpro": "Smith-Shimano Corpro",
+          "frame": "Aurelian",
+          "mech": "Upgod"
+        },
+                {
+          "callsign": "Scrub",
+          "alias": "Walter Winkler",
+          "code": "7ktb-fwl2d-83crv7jp1f9xdyza-qmr4bt --- //      //Colonial Capital",
+          "corpro": "General Massive Systems",
+          "frame": "Chomolungma",
+          "mech": "Paperweight"
+        },
+        {
+          "callsign": "Joe",
+          "alias": "TBD",
+          "code": "2nbx-hc5wq-05ytlmz4r1aqe7df-bpz3gm --- //      //TBD",
+          "corpro": "General Massive Systems",
+          "frame": "Everest",
+          "mech": "TBD"
+        },
+     {
+          "callsign": "TBD",
+          "alias": "TBD",
+          "code": "6jvm-szr9p-28keqdut8m0xrwln-hqc7du --- //      //Karrakin House Montague",
+          "corpro": "General Massive Systems",
+          "frame": "Everest",
+          "mech": "TBD"
+        },
       ],
       "header": {
         "planet": "Space",
