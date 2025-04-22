@@ -124,10 +124,10 @@ export default {
         "system": "Ardennes-3",
         "gate": "Atlas-Quanokrim",
         "ring": "Atlas-Line",
-        "headerTitle": "Union Naval Department",
+        "headerTitle": "Union Intelligence Bureau",
         "headerSubtitle": " ",
         "subheaderTitle": "Mission Dossier",
-        "subheaderSubtitle": "Hercynia Conflict",
+        "subheaderSubtitle": "MINDLOCK Contingent",
       },
       "options":{
         "eventsMarkdownPerMission": true
