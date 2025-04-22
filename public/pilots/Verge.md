@@ -1,7 +1,6 @@
 Bishop Huxley was born into the cold heart of the void, a child of the lawless frontier where might dictated right. The Huxley family were notorious space pirates, carving a brutal legacy among the stars. Raised amidst violence, he witnessed the unforgiving realities of survival at an early age, and he learned to hold a gun before a book.
 
 At 16, Bishop was already a ruthless pilot and an essential member of the Corpse Brigade. Their gang preyed upon the weak and was feared for their merciless tactics. Bishop's cold demeanor and exceptional piloting skills earned him respect and fear alike, until one fateful raid...
-
 Something went horribly wrong; an IPS-NORTHSTAR patrol caught wind of the raid, leaving Bishop as the sole survivor of the Corpse Brigade. As he drifted alone in the cold depths of space, he vowed vengeance against those who had taken everything from him. He clawed his way back, aligning himself with mercenaries and bounty hunters, stripping his once-title of pirate to now pilot and gaining the callsign "Verge."
 
 While working with a mercenary group, Bishop encountered Skorri Eydisson, a fellow mercenary with a fierce reputation known as "Sigmundr." They were drawn to each other like moths to a flame, both seeking purpose in their universe. Their camaraderie developed amidst the chaos and bloodshed, forming a friendly rivalry and bond like no other.
