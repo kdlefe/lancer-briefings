@@ -101,29 +101,29 @@ export default {
       ],
       "pilots": [
         {
-          "callsign": "Sigmundr",
-          "alias": "Skorri Eydisson",
+          "callsign": "Rohe",
+          "alias": "Paiti Arona",
           "code": "3mbf-sfn3k-76rprib1sw6jbf5lr-dnb5yw --- // //INDEPENDENT MERCENARY",
-          "corpro": "Harrison Armory",
-          "frame": "Tokugawa",
-          "mech": "Baldr"
+          "corpro": "General Massive Systems",
+          "frame": "Everest",
+          "mech": "TBD"
         },
         {
           "callsign": "Verge",
           "alias": "Bishop Huxley",
-          "code": "rvdt-nju64-paz1a9btqipesptwgw-7h6vm --- // //INDEPENDENT MERCENARY",
-          "corpro": "Smith-Shimano Corpro",
-          "frame": "Metalmark",
-          "mech": "Danse Macabre"
+          "code": "rvdt-nju64-paz1a9btqipesptwgw-7h6vm --- //   //INDEPENDENT MERCENARY",
+          "corpro": "General Massive Systems",
+          "frame": "Everest",
+          "mech": "Radar Rider"
         },
         
       ],
       "header": {
-        "planet": "Hercynia",
-        "year": "5014u",
-        "system": "Ardennes-3",
-        "gate": "Atlas-Quanokrim",
-        "ring": "Atlas-Line",
+        "planet": "N/A",
+        "year": "5017u",
+        "system": "Dawnline",
+        "gate": "Annamite-Rao Co",
+        "ring": "Annamite-Line",
         "headerTitle": "Union Intelligence Bureau",
         "headerSubtitle": " ",
         "subheaderTitle": "Mission Dossier",
