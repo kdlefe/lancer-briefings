@@ -119,7 +119,7 @@ export default {
         
       ],
       "header": {
-        "planet": "N/A",
+        "planet": "Space",
         "year": "5017u",
         "system": "Dawnline",
         "gate": "Annamite-Rao Co",
