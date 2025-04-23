@@ -31,20 +31,20 @@
           <Markdown :source="events" class="markdown" />
         </div>
       </section>
-<section class="section-container" id="pilots">
-  <div class="section-header-group">
-    <div class="section-header clipped-medium-backward-pilot">
-      <img src="/icons/pilot-icon.svg" />
-      <h1>Pilot Roster</h1>
-    </div>
-    <div class="rhombus-back">&nbsp;</div>
-  </div>
-  <div class="section-content-container">
-    <div class="pilot-list-container">
-      <Pilot v-for="item in pilots" :key="item.slug" :pilot="item" />
-    </div>
-  </div>
-</section>
+      <section class="section-container" id="pilots">
+        <div class="section-header-group">
+          <div class="section-header clipped-medium-backward-pilot">
+            <img src="/icons/pilot-icon.svg" />
+            <h1>Pilot Roster</h1>
+          </div>
+          <div class="rhombus-back"></div>
+        </div>
+        <div class="section-content-container">
+          <div class="pilot-list-container">
+            <Pilot v-for="item in pilots" :key="item.slug" :pilot="item" />
+          </div>
+        </div>
+      </section>
     </div>
     <svg
       style="visibility: hidden; position: absolute;"
@@ -277,6 +277,56 @@ body,
   flex-direction: column;
 }
 
+.section-header-group {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  margin-bottom: 20px; // space between rhombus and content
+}
+
+.section-header.clipped-medium-backward-pilot {
+  background-color: #111;
+  padding: 1rem 2rem;
+  border-radius: 1rem 1rem 0 0;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  z-index: 2;
+  position: relative;
+
+  img {
+    width: 24px;
+    height: 24px;
+  }
+
+  h1 {
+    font-size: 1.25rem;
+    font-weight: bold;
+    color: #eee;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin: 0;
+  }
+}
+
+.rhombus-back {
+  width: 36px;
+  height: 36px;
+  background-color: #111;
+  transform: rotate(45deg);
+  margin-top: -18px; // pulls it into the bottom of the header
+  z-index: 1;
+  position: relative;
+}
+
+.section-content-container {
+  background-color: #222;
+  padding: 1.5rem;
+  border-radius: 0 0 1rem 1rem;
+  z-index: 0;
+}
+
 /* Mobile adjustments */
 @media (max-width: 767px) {
   #app {
@@ -295,6 +345,4 @@ body,
     margin-bottom: 20px;
   }
 }
-
-/* You can keep or adjust existing styles for headers, icons, markdown etc. */
 </style>
