@@ -36,9 +36,6 @@
     <div class="section-header clipped-medium-backward-pilot">
       <img src="/icons/pilot-icon.svg" />
       <h1>Pilot Roster</h1>
-    </div>
-    <div class="rhombus-back"></div>
-  </div>
   <div class="section-content-container">
     <div class="pilot-list-container">
       <Pilot v-for="item in pilots" :key="item.slug" :pilot="item" />
@@ -275,20 +272,6 @@ body,
 .pilot-header {
   display: flex;
   flex-direction: column;
-}
-.section-header-group {
-  display: flex;
-  align-items: center;
-  gap: 1rem;
-  margin-bottom: 1rem;
-}
-
-.rhombus-back {
-  width: 1.5rem;
-  height: 1.5rem;
-  background-color: var(--accent-color, #f00); // or whatever fits your palette
-  clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);
-  flex-shrink: 0;
 }
 
 /* Mobile adjustments */
