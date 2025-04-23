@@ -31,20 +31,18 @@
           <Markdown :source="events" class="markdown" />
         </div>
       </section>
-      <section class="section-container" id="pilots">
-        <div class="pilot-header">
-          <div class="section-header clipped-medium-backward-pilot">
-            <img src="/icons/pilot-icon.svg" />
-            <h1>Pilot Roster</h1>
-          </div>
-          <div class="rhombus-back">&nbsp;</div>
-        </div>
-        <div class="section-content-container">
-          <div class="pilot-list-container">
-            <Pilot v-for="item in pilots" :key="item.slug" :pilot="item" />
-          </div>
-        </div>
-      </section>
+<section class="section-container" id="pilots">
+  <div class="section-header clipped-medium-backward-pilot">
+    <img src="/icons/pilot-icon.svg" />
+    <h1>Pilot Roster</h1>
+  </div>
+  <div class="rhombus-back">&nbsp;</div>
+  <div class="section-content-container">
+    <div class="pilot-list-container">
+      <Pilot v-for="item in pilots" :key="item.slug" :pilot="item" />
+    </div>
+  </div>
+</section>
     </div>
     <svg
       style="visibility: hidden; position: absolute;"
