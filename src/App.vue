@@ -152,13 +152,13 @@ export default {
       "header": {
         "planet": "Space",
         "year": "5017u",
-        "system": "Dawnline",
+        "system": "Dawnline Cluster",
         "gate": "Annamite-Rao Co",
         "ring": "Annamite-Line",
         "headerTitle": "Union Intelligence Bureau",
         "headerSubtitle": " ",
         "subheaderTitle": "Mission Dossier",
-        "subheaderSubtitle": "MINDLOCK Contingent",
+        "subheaderSubtitle": "MINDLOCK Contingent File",
       },
       "options":{
         "eventsMarkdownPerMission": true
