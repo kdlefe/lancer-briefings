@@ -291,6 +291,20 @@ body,
     height: auto;
     margin-bottom: 20px;
   }
+  #pilots .section-content-container {
+  display: flex;
+  flex-direction: column;
+  flex: 1 1 auto;
+  overflow: hidden; // prevents scroll from happening here
+}
+
+.pilot-list-container {
+  flex: 1 1 auto;
+  overflow-y: auto; // scrolling only happens *inside* the pilot list
+  display: flex;
+  flex-direction: column;
+  gap: 1rem; // optional spacing between pilots
+}
 }
 
 /* You can keep or adjust existing styles for headers, icons, markdown etc. */
