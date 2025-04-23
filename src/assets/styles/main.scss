@@ -494,7 +494,7 @@ section .section-header {
 
 .pilot-list-container {
   height: 666px;
-  overflow-y: scroll;
+  overflow:visible;
 }
 
 #pilots .pilot {
