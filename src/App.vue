@@ -33,11 +33,11 @@
       </section>
 <section class="section-container" id="pilots">
   <div class="section-header-group">
-    <div class="section-header clipped-medium-backward-pilot">
-      <img src="/icons/pilot-icon.svg" />
-      <h1>Pilot Roster</h1>
-    </div>
-    <div class="rhombus-back">&nbsp;</div>
+<section class="pilot-roster-section">
+  <div class="section-header clipped-medium-backward-pilot">
+    <img src="/icons/pilot-icon.svg" alt="Pilot Icon" class="pilot-icon" />
+    <h1 class="pilot-title">Pilot Roster</h1>
+    <div class="rhombus-back"></div>
   </div>
   <div class="section-content-container">
     <div class="pilot-list-container">
