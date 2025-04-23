@@ -32,10 +32,10 @@
         </div>
       </section>
 <section class="section-container" id="pilots">
-  <div class="section-header-group">
-    <div class="section-header clipped-medium-backward-pilot">
-      <img src="/icons/pilot-icon.svg" />
-      <h1>Pilot Roster</h1>
+  <div class="section-header clipped-medium-backward">
+    <img src="/icons/pilot-icon.svg" />
+    <h1>Pilot Roster</h1>
+  </div>
   <div class="section-content-container">
     <div class="pilot-list-container">
       <Pilot v-for="item in pilots" :key="item.slug" :pilot="item" />
