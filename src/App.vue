@@ -262,7 +262,10 @@ body,
   margin: 5px;
   overflow: hidden;
 }
-
+#missions {
+  max-width: 500px;
+  flex: 0 0 auto;
+}
 .section-content-container {
   flex: 1 1 auto;
   overflow: auto;
